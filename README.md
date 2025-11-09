@@ -1,6 +1,7 @@
 # DSC_Assignment
 This is a github repository to store my data science assignment
-The answers are mentioned at the end of the assignment. So I am once again uploading it here as well.
+
+The answers are mentioned at the end of the assignment. So I am once again updaing it here as well.
 
 Node 0 and 33 remain consistent across splits.
 
